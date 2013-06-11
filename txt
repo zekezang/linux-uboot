@@ -1,0 +1,4 @@
+
+CONFIG_IPADDR
+do_printenv
+env_get_char_init
